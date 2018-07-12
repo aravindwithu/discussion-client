@@ -6,6 +6,7 @@ Created on: Jul 13, 2018
 
 Used to consume discussion-api, to discuss a topic and share ideas.
 
+run npm init to install node modules.
 
 # DiscussionClient
 
